@@ -25,3 +25,10 @@
   
 ## MY PROJECTS LIST:
 
+	```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
