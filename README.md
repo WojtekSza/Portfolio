@@ -1,5 +1,5 @@
 # WELCOME IN MY PORTFOLIO PAGE
-Hi!. I`am WojtekSza :Hello:
+Hi!. I`am WojtekSza :hello:
 See below my skils and projects. 
 
 ### Languages and Tools:
