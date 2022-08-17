@@ -1,5 +1,5 @@
 # WELCOME IN MY PORTFOLIO PAGE
-Hi! I`am WojtekSza :wave: <br>
+Hi :wave:  I`am WojtekSza  <br>
 See below my skils and projects. 
 
 ### Languages and Tools:
@@ -31,7 +31,7 @@ See below my skils and projects.
 | ----------- | ----------- |
 | [Virtual Assembly](https://virtualassembly.link) |  Webpage with simulation of 3D assembly. User can build here detailed engineering model. Example first world jet engine Jumo used in Messerschmitt Me 262 aircraft|
 | [Aviation Fleet](https://aviationfleet.link) |  Webpage with informations about commercial aviation. User can find here Airlines main hubs vizualization,  Map of all airports in the world, Details of produced aircrafts and models, Operation map of airlines around the world, Snapshot of aircrafts actual positions around the world|
-| [AirBnB rent price - Singapur ](https://github.com/WojtekSza/AirBnB_singapur/blob/main/PRBD_data_preparation_SINGAPORE.ipynb) |  Analysis of rent price in Singapure from AirBnB|
+| [AirBnB rent price analysis - Singapur ](https://github.com/WojtekSza/AirBnB_singapur/blob/main/PRBD_data_preparation_SINGAPORE.ipynb) |  Analysis of rent price in Singapure from AirBnB|
 
 ## Engineering achievements:
 Mechanical design of compressor module in GE Catalyst turboprop engine used in Cessna Denali aircraft.
