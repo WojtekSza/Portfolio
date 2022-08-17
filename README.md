@@ -33,8 +33,8 @@ See below my skils and projects.
 | [Aviation Fleet](https://aviationfleet.link) |  Webpage with informations about commercial aviation. User can find here Airlines main hubs vizualization,  Map of all airports in the world, Details of produced aircrafts and models, Operation map of airlines around the world, Snapshot of aircrafts actual positions around the world|
 | [AirBnB rent price - Singapur ](https://github.com/WojtekSza/AirBnB_singapur/blob/main/PRBD_data_preparation_SINGAPORE.ipynb) |  Analysis of rent price in Singapure from AirBnB|
 
-### Engineering achievements:
-Mechanicla design of compressor module in GE Catalyst turboprop engine used in Cessna Denali aircraft.
+## Engineering achievements:
+Mechanical design of compressor module in GE Catalyst turboprop engine used in Cessna Denali aircraft.
 <p>
 <a href="https://www.geaviation.com/propulsion/regional-business/catalyst" target="_blank" rel="noreferrer"> 
   <img src="https://github.com/WojtekSza/Portfolio/blob/main/icons/denali.jpg" alt="spark" width="400"/> 
@@ -42,7 +42,7 @@ Mechanicla design of compressor module in GE Catalyst turboprop engine used in C
 </a> 
 </p>
 
-## Contact:
+# Contact:
 <p>
 <a href="https://www.linkedin.com/in/wojciech-szaniawski-518439146" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="spark" width="40" height="40"/> 
