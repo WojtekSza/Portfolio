@@ -1,5 +1,5 @@
 # WELCOME IN MY PORTFOLIO PAGE
-Hi!. I`am WojtekSza :hello:
+Hi! I`am WojtekSza :wave: <br>
 See below my skils and projects. 
 
 ### Languages and Tools:
@@ -27,10 +27,17 @@ See below my skils and projects.
   
 ## MY PROJECTS LIST:
 
+| Project | Description |
+| ----------- | ----------- |
+| Text |Text |
+
+## Contact:
+<p>
+<a href="https://www.linkedin.com/in/wojciech-szaniawski-518439146" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="spark" width="40" height="40"/> 
+</a> 
+<p>
+Email:
 ```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
+wojciech.szaniawski1@gmail.com
 ```
