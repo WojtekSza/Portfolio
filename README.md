@@ -34,6 +34,7 @@ See below my skils and projects.
 | [AirBnB rent price - Singapur ](https://github.com/WojtekSza/AirBnB_singapur/blob/main/PRBD_data_preparation_SINGAPORE.ipynb) |  Analysis of rent price in Singapure from AirBnB|
 
 ### Engineering achievements:
+Mechanicla design of compressor module in GE Catalyst turboprop engine used in Cessna Denali aircraft.
 <p>
 <a href="https://www.geaviation.com/propulsion/regional-business/catalyst" target="_blank" rel="noreferrer"> 
   <img src="https://github.com/WojtekSza/Portfolio/blob/main/icons/denali.jpg" alt="spark" width="400"/> 
