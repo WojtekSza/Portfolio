@@ -1,5 +1,5 @@
 # WELCOME IN MY PORTFOLIO PAGE
-
+ 
 ### Languages and Tools:
 <p align="left"> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
@@ -21,6 +21,7 @@
 <a href="https://www.plm.automation.siemens.com/global/en/products/nx/" target="_blank" rel="noreferrer"> 
   <img src="https://github.com/WojtekSza/Portfolio/blob/main/icons/nx.svg" alt="spark" width="40" height="40"/> 
 </a> 
-<p>
+</p>
+  
 ## MY PROJECTS LIST:
 
