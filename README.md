@@ -1,5 +1,7 @@
 # WELCOME IN MY PORTFOLIO PAGE
- 
+Hi!. I`am WojtekSza :Hello
+See below my skils and projects. 
+
 ### Languages and Tools:
 <p align="left"> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
