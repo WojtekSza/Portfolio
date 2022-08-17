@@ -36,8 +36,9 @@ See below my skils and projects.
 <a href="https://www.linkedin.com/in/wojciech-szaniawski-518439146" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="spark" width="40" height="40"/> 
 </a> 
-<p>
+</p>
 Email:
+
 ```
 wojciech.szaniawski1@gmail.com
 ```
