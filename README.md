@@ -25,7 +25,7 @@
   
 ## MY PROJECTS LIST:
 
-	```
+```
 {
   "firstName": "John",
   "lastName": "Smith",
