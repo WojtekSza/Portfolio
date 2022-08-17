@@ -48,8 +48,3 @@ Mechanical design of compressor module in GE Catalyst turboprop engine used in C
 <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="spark" width="40" height="40"/> 
 </a> 
 </p>
-Email:
-
-```
-wojciech.szaniawski1@gmail.com
-```
