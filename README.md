@@ -12,7 +12,12 @@ See below my skils and projects.
 </a> 
 <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> 
   <img src="https://github.com/WojtekSza/Portfolio/blob/main/icons/spark.svg" alt="spark" width="40" height="40"/> 
+</a>
 </a> 
+<a href="https://www.dataiku.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/WojtekSza/Portfolio/blob/main/icons/dataiku.svg" alt="dataiku" width="40" height="40"/> 
+</a> 
+
 </p>
 
 ### Design Engineering Tools:
