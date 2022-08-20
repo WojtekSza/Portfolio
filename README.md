@@ -11,11 +11,11 @@ See below my skils and projects.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
 </a> 
 <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/WojtekSza/Portfolio/blob/main/icons/spark.svg" alt="spark" width="60" height="60"/> 
+  <img src="https://github.com/WojtekSza/Portfolio/blob/main/icons/spark.svg" alt="spark" width="60" /> 
 </a>
 </a> 
 <a href="https://www.dataiku.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/WojtekSza/Portfolio/blob/main/icons/dataiku.svg" alt="dataiku" width="60" height="60"/> 
+  <img src="https://github.com/WojtekSza/Portfolio/blob/main/icons/dataiku.svg" alt="dataiku" width="60" /> 
 </a> 
 
 </p>
