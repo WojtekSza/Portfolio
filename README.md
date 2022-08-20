@@ -15,7 +15,7 @@ See below my skils and projects.
 </a>
 </a> 
 <a href="https://www.dataiku.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/WojtekSza/Portfolio/blob/main/icons/dataiku.svg" alt="dataiku" width="60" /> 
+  <img src="https://github.com/WojtekSza/Portfolio/blob/main/icons/dataiku.svg" alt="dataiku" width="80" /> 
 </a> 
 
 </p>
