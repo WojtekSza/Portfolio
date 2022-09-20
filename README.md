@@ -21,7 +21,9 @@ See below my skils and projects.
 <a href="https://www.dataiku.com/" target="_blank" rel="noreferrer"> 
   <img src="https://github.com/WojtekSza/Portfolio/blob/main/icons/dataiku.svg" alt="dataiku" width="80" /> 
 </a> 
-
+<a href="https://www.tibco.com/products/tibco-spotfire" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/WojtekSza/Portfolio/blob/main/icons/tibco-spotfire.svg" alt="dataiku" width="80" /> 
+</a> 
 </p>
 
 ### Design Engineering Tools:
