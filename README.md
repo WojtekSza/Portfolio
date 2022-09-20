@@ -41,6 +41,7 @@ See below my skils and projects.
 | Project | Used Technology | Description | 
 | ----------- | ----------- |----------- |
 | [Spark distributed computing](https://github.com/WojtekSza/Spark_distributed_computation_analysis)| Azure, Spark | Github repository with analaysis of simple PI calculation on 1x and 3x servers. Goal is to measure if computing time will decrease while using distributed calculations. Azure infrastructure used for analysis|
+| [Real time machine learning](https://github.com/WojtekSza/Spark_distributed_computation_analysis)| Azure Machine Learning | Github repository with created real time machine learning model|
 | [Virtual Assembly](http://virtualassembly.link)| AWS, Three.JS, JavaScript, Python, Django, PostgreSQL|  Webpage with simulation of 3D assembly. User can build here detailed engineering model. Example first world jet engine Jumo used in Messerschmitt Me 262 aircraft|
 | [Aviation Fleet](http://aviationfleet.link) | PostgreSQL, DataIKU, Google Data Studio  |  Webpage with informations about commercial aviation. User can find here Airlines main hubs vizualization,  Map of all airports in the world, Details of produced aircrafts and models, Operation map of airlines around the world, Snapshot of aircrafts actual positions around the world|
 | [AirBnB rent price analysis - Singapur ](https://github.com/WojtekSza/AirBnB_singapur/blob/main/PRBD_data_preparation_SINGAPORE.ipynb)| Python, Pandas |  Analysis of rent price in Singapure from AirBnB|
