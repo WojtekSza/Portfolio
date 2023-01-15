@@ -40,6 +40,7 @@ See below my skils and projects.
 
 | Project | Used Technology | Description | 
 | ----------- | ----------- |----------- |
+| [File Storage Application](https://github.com/WojtekSza/File-Storage-Service )|Azure, C#, .NET, Azure App Service| Github repository how to create website application for uploading and downloading files. There was used Azure App Serivce with used code which was writeen in ASP.NET |
 | [Spark distributed computing](https://github.com/WojtekSza/Spark_distributed_computation_analysis)| Azure, Spark | Github repository with analaysis of simple PI calculation on 1x and 3x servers. Goal is to measure if computing time will decrease while using distributed calculations. Azure infrastructure used for analysis|
 | [Automated machine learning](https://github.com/WojtekSza/Azure-Automated-Machine-Learning)| Azure Machine Learning | Github repository with created Azure Automated Machine Learning model. Data for traning used from Kaggel - Twitter disasters dataset|
 | [Virtual Assembly](https://github.com/WojtekSza/VirtualAssembly)| AWS, Three.JS, JavaScript, Python, Django, PostgreSQL|  Webpage with simulation of 3D assembly. User can build here detailed engineering model. Example first world jet engine Jumo used in Messerschmitt Me 262 aircraft <a href="https://youtu.be/7DaLCtpMFDU">https://youtu.be/7DaLCtpMFDU</a>|
