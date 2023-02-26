@@ -40,6 +40,7 @@ See below my skils and projects.
 
 | Project | Used Technology | Description | 
 | ----------- | ----------- |----------- |
+| Buisness Inteligence tools in action | Spotfire, Looker, Power Bi, DataIKU | Repository with data preparation in Dataiku (ETL for Aviation data) and vizualization in various Buisness Inteligence tools - Spotfire, Looker, Power Bi|
 | [File Storage Application](https://github.com/WojtekSza/File-Storage-Service )|Azure, C#, ASP.NET, Azure App Service| Github repository how to create website application for uploading and downloading files. There was used Azure App Serivce with used code which was writeen in ASP.NET |
 | [Spark distributed computing](https://github.com/WojtekSza/Spark_distributed_computation_analysis)| Azure, Spark | Github repository with analaysis of simple PI calculation on 1x and 3x servers. Goal is to measure if computing time will decrease while using distributed calculations. Azure infrastructure used for analysis|
 | [Automated machine learning](https://github.com/WojtekSza/Azure-Automated-Machine-Learning)| Azure Machine Learning | Github repository with created Azure Automated Machine Learning model. Data for traning used from Kaggel - Twitter disasters dataset|
