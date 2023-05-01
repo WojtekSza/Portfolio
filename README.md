@@ -52,7 +52,6 @@ See below my skils and projects.
 <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> 
   <img src="https://github.com/WojtekSza/Portfolio/blob/main/icons/airflow.svg" alt="airflow" width="40" /> 
 </a> 
-</p>
 <a href="https://threejs.org/" target="_blank" rel="noreferrer"> 
   <img src="https://github.com/WojtekSza/Portfolio/blob/main/icons/three.svg" alt="three.js" width="40" /> 
 </a> 
