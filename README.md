@@ -27,6 +27,9 @@ See below my skils and projects.
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
 </a> 
+<a href="https://neo4j.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/WojtekSza/Portfolio/blob/main/icons/neo4j.svg" alt="neo4j" width="60"/> 
+</a> 
 <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> 
   <img src="https://github.com/WojtekSza/Portfolio/blob/main/icons/spark.svg" alt="spark" width="60" /> 
 </a>
@@ -35,7 +38,19 @@ See below my skils and projects.
   <img src="https://github.com/WojtekSza/Portfolio/blob/main/icons/dataiku.svg" alt="dataiku" width="80" /> 
 </a> 
 <a href="https://www.tibco.com/products/tibco-spotfire" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/WojtekSza/Portfolio/blob/main/icons/tibco-spotfire.svg" alt="dataiku" width="80" /> 
+  <img src="https://github.com/WojtekSza/Portfolio/blob/main/icons/tibco-spotfire.svg" alt="spotfire" width="80" /> 
+</a> 
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/WojtekSza/Portfolio/blob/main/icons/tableau.svg" alt="tableau" width="40" /> 
+</a>
+<a href="https://powerbi.pl/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/WojtekSza/Portfolio/blob/main/icons/powerbi.svg" alt="powerbi" width="40" /> 
+</a> 
+<a href="https://www.looker.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/WojtekSza/Portfolio/blob/main/icons/looker.svg" alt="looker" width="40" /> 
+</a> 
+<a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/WojtekSza/Portfolio/blob/main/icons/airflow.svg" alt="airflow" width="40" /> 
 </a> 
 </p>
 
