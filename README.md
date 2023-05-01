@@ -53,6 +53,14 @@ See below my skils and projects.
   <img src="https://github.com/WojtekSza/Portfolio/blob/main/icons/airflow.svg" alt="airflow" width="40" /> 
 </a> 
 </p>
+<a href="https://threejs.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/WojtekSza/Portfolio/blob/main/icons/three.svg" alt="three.js" width="40" /> 
+</a> 
+<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/WojtekSza/Portfolio/blob/main/icons/blender.svg" alt="blender" width="40" /> 
+</a> 
+</p>
+
 
 ### Design Engineering Tools:
 <p>
