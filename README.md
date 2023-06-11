@@ -48,7 +48,7 @@ See below my skils and projects.
   
 ## MY PROJECTS LIST:
 
-| Project | Used Technology | Description | 
+| Project | Tech Stack | Description | 
 | ----------- | ----------- |----------- |
 | [File Storage Application](https://github.com/WojtekSza/File-Storage-Service )| <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> | Github repository how to create website application for uploading and downloading files. There was used Azure App Serivce with used code which was writeen in ASP.NET |
 | [Spark distributed computing](https://github.com/WojtekSza/Spark_distributed_computation_analysis)|<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/WojtekSza/Portfolio/blob/main/icons/spark.svg" alt="spark" width="60" /> </a> | Github repository with analaysis of simple PI calculation on 1x and 3x servers. Goal is to measure if computing time will decrease while using distributed calculations. Azure infrastructure used for analysis|
