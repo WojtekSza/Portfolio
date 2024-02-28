@@ -62,8 +62,8 @@ See below my skils and projects.
 ## Data Structures & Alghoritms
 | Group <img width=200/>| Method<img width=200/>| Topic <img width=500/>| Solution <img width=500/>| 
 | ----------- | -------------- |----------- |----------- |
-| Arrays and strings | Two pointers | Reverse String |  <a href="https://github.com/WojtekSza/DSA-Two-pointers">Link</a>|
-| Arrays and strings | Two pointers | Squares of a Sorted Array |  <a href="https://github.com/WojtekSza/DSA-Squares-of-a-Sorted-Array">Link</a>|
+| Arrays and strings | Two pointers | Reverse String |  <a href="https://github.com/WojtekSza/DSA-Two-pointers" target="_blank">Link</a>|
+| Arrays and strings | Two pointers | Squares of a Sorted Array |  <a href="https://github.com/WojtekSza/DSA-Squares-of-a-Sorted-Array" target="_blank">Link</a>|
 
 ## Engineering achievements:
 Design Engineer of compressor module in GE Catalyst turboprop engine used in Cessna Denali aircraft.
