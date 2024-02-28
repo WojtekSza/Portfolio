@@ -60,10 +60,10 @@ See below my skils and projects.
 | [AirBnB rent price analysis - Singapur ](https://github.com/WojtekSza/AirBnB_singapur/blob/main/PRBD_data_preparation_SINGAPORE.ipynb)| <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> |  Analysis of rent price in Singapure from AirBnB|
 
 ## Data Structures & Alghoritms
-| Group <img width=200/>| Topic <img width=200/>| Method <img width=500/>| Solution <img width=500/>| 
+| Group <img width=200/>| Method<img width=200/>| Topic <img width=500/>| Solution <img width=500/>| 
 | ----------- | -------------- |----------- |----------- |
-| Arrays and strings | Reverse String | Two pointers |  <a href="https://github.com/WojtekSza/DSA_two_pointers">Link</a>|
-
+| Arrays and strings | Two pointers | Reverse String |  <a href="https://github.com/WojtekSza/DSA-Two-pointers">Link</a>|
+| Arrays and strings | Two pointers | Squares of a Sorted Array |  <a href="https://github.com/WojtekSza/DSA-Squares-of-a-Sorted-Array">Link</a>|
 
 ## Engineering achievements:
 Design Engineer of compressor module in GE Catalyst turboprop engine used in Cessna Denali aircraft.
