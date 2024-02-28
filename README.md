@@ -62,7 +62,7 @@ See below my skils and projects.
 ## Data Structures & Alghoritms
 | Group <img width=200/>| Method<img width=200/>| Topic <img width=500/>| Solution <img width=500/>| 
 | ----------- | -------------- |----------- |----------- |
-| Arrays and strings | Two pointers | Reverse String |  <a href="https://github.com/WojtekSza/DSA-Two-pointers" target="_blank" rel="noopener">Link</a> [link](https://example.com)|
+| Arrays and strings | Two pointers | Reverse String | [link](https://github.com/WojtekSza/DSA-Two-pointers)|
 | Arrays and strings | Two pointers | Squares of a Sorted Array |  <a href="https://github.com/WojtekSza/DSA-Squares-of-a-Sorted-Array" target="_blank" rel="noopener">Link</a>|
 
 ## Engineering achievements:
