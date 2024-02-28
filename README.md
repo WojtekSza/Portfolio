@@ -62,7 +62,7 @@ See below my skils and projects.
 ## Data Structures & Alghoritms
 | Group <img width=200/>| Topic <img width=200/>| Method <img width=500/>| Solution <img width=500/>| 
 | ----------- | -------------- |----------- |----------- |
-| Arrays and strings | Reverse String | Two pointers |  |
+| Arrays and strings | Reverse String | Two pointers |  <a href="https://github.com/WojtekSza/DSA_two_pointers">Link</a>|
 
 
 ## Engineering achievements:
