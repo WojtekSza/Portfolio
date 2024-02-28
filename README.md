@@ -65,7 +65,10 @@ See below my skils and projects.
 | Arrays and strings | Two pointers | Reverse String | [link](https://github.com/WojtekSza/DSA-Two-pointers)|
 | Arrays and strings | Two pointers | Squares of a Sorted Array |  <a href="https://github.com/WojtekSza/DSA-Squares-of-a-Sorted-Array" target="_blank" rel="noopener">Link</a>|
 | Arrays and strings | Sliding Window | Maximum Average Subarray I |  <a href="https://github.com/WojtekSza/DSA-Maximum-Average-Subarray-I">Link</a>|
-
+| Arrays and strings | Sliding Window | Max Consecutive Ones III |  <a href="https://github.com/WojtekSza/DSA-Max-Consecutive-Ones-III">Link</a>|
+| Arrays and strings | Prefix Sum | Max Consecutive Ones III |  <a href="https://github.com/WojtekSza/DSA-Running-Sum-of-1d-Array">Link</a>|
+| Arrays and strings | Prefix Sum | Minimum Value to Get Positive Step by Step Sum |  <a href="https://github.com/WojtekSza/DSA-Minimum-Value-to-Get-Positive-Step-by-Step-Sum">Link</a>|
+| Arrays and strings | Prefix Sum | K Radius Subarray Averages |  <a href="https://github.com/WojtekSza/DSA-K-Radius-Subarray-Averages/tree/main">Link</a>|
 
 ## Engineering achievements:
 Design Engineer of compressor module in GE Catalyst turboprop engine used in Cessna Denali aircraft.
