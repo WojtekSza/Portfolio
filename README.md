@@ -64,7 +64,7 @@ See below my skils and projects.
 | ----------- | -------------- |----------- |----------- |
 | Arrays and strings | Two pointers | Reverse String | [link](https://github.com/WojtekSza/DSA-Two-pointers)|
 | Arrays and strings | Two pointers | Squares of a Sorted Array |  <a href="https://github.com/WojtekSza/DSA-Squares-of-a-Sorted-Array" target="_blank" rel="noopener">Link</a>|
-| Arrays and strings | Sliding Window | Maximum Average Subarray I |  <a href="https://github.com/WojtekSza/DSA-Sliding-window">Link</a>|
+| Arrays and strings | Sliding Window | Maximum Average Subarray I |  <a href="https://github.com/WojtekSza/DSA-Maximum-Average-Subarray-I">Link</a>|
 
 
 ## Engineering achievements:
