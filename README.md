@@ -60,15 +60,15 @@ See below my skils and projects.
 | [AirBnB rent price analysis - Singapur ](https://github.com/WojtekSza/AirBnB_singapur/blob/main/PRBD_data_preparation_SINGAPORE.ipynb)| <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> |  Analysis of rent price in Singapure from AirBnB|
 
 ## Data Structures & Alghoritms
-| Group <img width=200/>| Method<img width=200/>| Topic <img width=500/>| Solution <img width=500/>| 
-| ----------- | -------------- |----------- |----------- |
-| Arrays and strings | Two pointers | Reverse String | [link](https://github.com/WojtekSza/DSA-Two-pointers)|
-| Arrays and strings | Two pointers | Squares of a Sorted Array |  <a href="https://github.com/WojtekSza/DSA-Squares-of-a-Sorted-Array" target="_blank" rel="noopener">Link</a>|
-| Arrays and strings | Sliding Window | Maximum Average Subarray I |  <a href="https://github.com/WojtekSza/DSA-Maximum-Average-Subarray-I">Link</a>|
-| Arrays and strings | Sliding Window | Max Consecutive Ones III |  <a href="https://github.com/WojtekSza/DSA-Max-Consecutive-Ones-III">Link</a>|
-| Arrays and strings | Prefix Sum | Running Sum of 1d Array |  <a href="https://github.com/WojtekSza/DSA-Running-Sum-of-1d-Array">Link</a>|
-| Arrays and strings | Prefix Sum | Minimum Value to Get Positive Step by Step Sum |  <a href="https://github.com/WojtekSza/DSA-Minimum-Value-to-Get-Positive-Step-by-Step-Sum">Link</a>|
-| Arrays and strings | Prefix Sum | K Radius Subarray Averages |  <a href="https://github.com/WojtekSza/DSA-K-Radius-Subarray-Averages/tree/main">Link</a>|
+| Group <img width=200/>| Method<img width=200/>| Topic <img width=500/>| Tech stack <img width=100/>|  Solution <img width=100/>| 
+| ----------- | -------------- |----------- |----------- |----------- |
+| Arrays and strings | Two pointers | Reverse String | Python3 | [link](https://github.com/WojtekSza/DSA-Two-pointers)|
+| Arrays and strings | Two pointers | Squares of a Sorted Array |Python3 |  <a href="https://github.com/WojtekSza/DSA-Squares-of-a-Sorted-Array" target="_blank" rel="noopener">Link</a>|
+| Arrays and strings | Sliding Window | Maximum Average Subarray I | Python3 | <a href="https://github.com/WojtekSza/DSA-Maximum-Average-Subarray-I">Link</a>|
+| Arrays and strings | Sliding Window | Max Consecutive Ones III | Python3 | <a href="https://github.com/WojtekSza/DSA-Max-Consecutive-Ones-III">Link</a>|
+| Arrays and strings | Prefix Sum | Running Sum of 1d Array | Python3 | <a href="https://github.com/WojtekSza/DSA-Running-Sum-of-1d-Array">Link</a>|
+| Arrays and strings | Prefix Sum | Minimum Value to Get Positive Step by Step Sum | Python3 | <a href="https://github.com/WojtekSza/DSA-Minimum-Value-to-Get-Positive-Step-by-Step-Sum">Link</a>|
+| Arrays and strings | Prefix Sum | K Radius Subarray Averages | Python3 | <a href="https://github.com/WojtekSza/DSA-K-Radius-Subarray-Averages/tree/main">Link</a>|
 
 ## Engineering achievements:
 Design Engineer of compressor module in GE Catalyst turboprop engine used in Cessna Denali aircraft.
