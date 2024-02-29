@@ -70,6 +70,9 @@ See below my skils and projects.
 | Arrays and strings | Prefix Sum | Minimum Value to Get Positive Step by Step Sum | Python3 | <a href="https://github.com/WojtekSza/DSA-Minimum-Value-to-Get-Positive-Step-by-Step-Sum">Link</a>|
 | Arrays and strings | Prefix Sum | K Radius Subarray Averages | Python3 | <a href="https://github.com/WojtekSza/DSA-K-Radius-Subarray-Averages/tree/main">Link</a>|
 | Hashing | Checking for existence | Check if the Sentence Is Pangram | Python3 | <a href="https://github.com/WojtekSza/DSA-Check-if-the-Sentence-Is-Pangram">Link</a>|
+| Hashing | Checking for existence | Missing number | Python3 | <a href="https://github.com/WojtekSza/DSA-Missing-Number">Link</a>|
+| Hashing | Checking for existence | Counting Elements | Python3 | <a href="https://github.com/WojtekSza/DSA-Counting-Elements">Link</a>|
+
 
 ## Engineering achievements:
 Design Engineer of compressor module in GE Catalyst turboprop engine used in Cessna Denali aircraft.
