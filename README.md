@@ -73,6 +73,8 @@ See below my skils and projects.
 | Hashing | Checking for existence | Missing number | Python3 | <a href="https://github.com/WojtekSza/DSA-Missing-Number">Link</a>|
 | Hashing | Checking for existence | Counting Elements | Python3 | <a href="https://github.com/WojtekSza/DSA-Counting-Elements">Link</a>|
 | Hashing | Counting | Find Players With Zero or One Losses | Python3 | <a href="https://github.com/WojtekSza/DSA-Find-Players-With-Zero-or-One-Losses">Link</a>|
+| Hashing | Counting | Largest Unique Number | Python3 | <a href="https://github.com/WojtekSza/DSA-Largest-Unique-Number">Link</a>|
+
 
 
 ## Engineering achievements:
