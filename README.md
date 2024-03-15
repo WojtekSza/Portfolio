@@ -75,6 +75,7 @@ See below my skils and projects.
 | Hashing | Counting | Find Players With Zero or One Losses | Python3 | <a href="https://github.com/WojtekSza/DSA-Find-Players-With-Zero-or-One-Losses">Link</a>|
 | Hashing | Counting | Largest Unique Number | Python3 | <a href="https://github.com/WojtekSza/DSA-Largest-Unique-Number">Link</a>|
 | Hashing | Counting | Maximum Number of Balloons | Python3 | <a href="https://github.com/WojtekSza/DSA-Maximum-Number-of-Balloons">Link</a>|
+| Hashing⚡ | Counting | Contiguous Array | Python3 | <a href="https://github.com/WojtekSza/DSA-Contiguous-Array">Link</a>|
 
 
 ## Engineering achievements:
