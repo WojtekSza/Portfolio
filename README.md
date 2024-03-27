@@ -76,6 +76,9 @@ See below my skils and projects.
 | Hashing | Counting | Largest Unique Number | Python3 | <a href="https://github.com/WojtekSza/DSA-Largest-Unique-Number">Link</a>|
 | Hashing | Counting | Maximum Number of Balloons | Python3 | <a href="https://github.com/WojtekSza/DSA-Maximum-Number-of-Balloons">Link</a>|
 | Hashing⚡ | Counting | Contiguous Array | Python3 | <a href="https://github.com/WojtekSza/DSA-Contiguous-Array">Link</a>|
+| Hashing | More hashing examples | Ransom Note | Python3 | <a href="https://github.com/WojtekSza/DSA-Ransom-Note">Link</a>|
+| Hashing | More hashing examples | Jewels and Stones | Python3 | <a href="https://github.com/WojtekSza/DSA-Jewels-and-Stones">Link</a>|
+| Hashing | More hashing examples | Longest Substring Without Repeating Characters | Python3 | <a href="https://github.com/WojtekSza/DSA-Longest-Substring-Without-Repeating-Characters">Link</a>|
 
 
 ## Engineering achievements:
