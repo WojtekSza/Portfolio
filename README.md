@@ -81,7 +81,7 @@ See below my skils and projects.
 | Hashing | More hashing examples | Longest Substring Without Repeating Characters | Python3 | <a href="https://github.com/WojtekSza/DSA-Longest-Substring-Without-Repeating-Characters">Link</a>|
 | Linked List | Fast and slow pointers | Middle of the Linked List | Python3 | <a href="https://github.com/WojtekSza/DSA-Middle-of-the-Linked-List">Link</a>|
 | Linked List | Fast and slow pointers | Remove Duplicates from Sorted List | Python3 | <a href="https://github.com/WojtekSza/DSA-Remove-Duplicates-from-Sorted-List">Link</a>|
-| Linked List | Reversing a linked list | Reversing a linked list II| Python3 | <a href="https://github.com/WojtekSza/DSA-Reverse-Linked-List-II">Link</a>|
+| Linked List ⚡| Reversing a linked list | Reversing a linked list II| Python3 | <a href="https://github.com/WojtekSza/DSA-Reverse-Linked-List-II">Link</a>|
 
 ## Engineering achievements:
 Design Engineer of compressor module in GE Catalyst turboprop engine used in Cessna Denali aircraft.
