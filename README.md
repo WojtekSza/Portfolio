@@ -82,7 +82,6 @@ See below my skils and projects.
 | Linked List | Fast and slow pointers | Middle of the Linked List | Python3 | <a href="https://github.com/WojtekSza/DSA-Middle-of-the-Linked-List">Link</a>|
 | Linked List | Fast and slow pointers | Remove Duplicates from Sorted List | Python3 | <a href="https://github.com/WojtekSza/DSA-Remove-Duplicates-from-Sorted-List">Link</a>|
 | Linked List ⚡| Reversing a linked list | Reversing a linked list II| Python3 | <a href="https://github.com/WojtekSza/DSA-Reverse-Linked-List-II">Link</a>|
-
 | Stacks and queues | String problems | Simplify Path | Python3 | <a href="https://github.com/WojtekSza/DSA-Simplify-Path">Link</a>|
 | Stacks and queues| String problems | Make The String Great | Python3 | <a href="https://github.com/WojtekSza/DSA-Make-The-String-Great">Link</a>|
 | Stacks and queues| Queues | Moving Average from Data Stream | Python3 | <a href="https://github.com/WojtekSza/DSA-Moving-Average-from-Data-Stream">Link</a>|
