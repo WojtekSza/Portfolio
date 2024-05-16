@@ -86,8 +86,12 @@ See below my skils and projects.
 | Stacks and queues| String problems | Make The String Great | Python3 | <a href="https://github.com/WojtekSza/DSA-Make-The-String-Great">Link</a>|
 | Stacks and queues| Queues | Moving Average from Data Stream | Python3 | <a href="https://github.com/WojtekSza/DSA-Moving-Average-from-Data-Stream">Link</a>|
 | Stacks and queues ⚡| Monotonic | Next Greater Element I | Python3 | <a href="https://github.com/WojtekSza/DSA-Next-Greater-Element-I">Link</a>|
-| Stacks and queues ⚡| Monotonic | Online Stock Span | Python3 | <a href="https://github.com/WojtekSza/DSA-Online-Stock-Span">Link</a>|
-
+| Stacks and queues | Monotonic | Online Stock Span | Python3 | <a href="https://github.com/WojtekSza/DSA-Online-Stock-Span">Link</a>|
+| Trees and graphs | DFS | Minimum Depth of Binary Tree | Python3 | <a href="https://github.com/WojtekSza/DSA-Minimum-Depth-of-Binary-Tree">Link</a>|
+| Trees and graphs | DFS | Maximum Difference Between Node and Ancestor | Python3 | <a href="https://github.com/WojtekSza/DSA-Maximum-Difference-Between-Node-and-Ancestor">Link</a>|
+| Trees and graphs | DFS | Diameter of Binary Tree| Python3 | <a href="https://github.com/WojtekSza/DSA-Diameter-of-Binary-Tree">Link</a>|
+| Trees and graphs | BFS | Deepest Leaves Sum| Python3 | <a href="https://github.com/WojtekSza/DSA-Deepest-Leaves-Sum">Link</a>|
+| Trees and graphs | BFS | Binary Tree Zigzag Level Order Traversal| Python3 | <a href="https://github.com/WojtekSza/DSA-Binary-Tree-Zigzag-Level-Order-Traversal">Link</a>|
 ## Engineering achievements:
 Design Engineer of compressor module in GE Catalyst turboprop engine used in Cessna Denali aircraft.
 <p>
