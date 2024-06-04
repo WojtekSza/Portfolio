@@ -92,14 +92,13 @@ See below my skils and projects.
 | Trees and graphs | DFS | Diameter of Binary Tree| Python3 | <a href="https://github.com/WojtekSza/DSA-Diameter-of-Binary-Tree">Link</a>|
 | Trees and graphs | BFS | Deepest Leaves Sum| Python3 | <a href="https://github.com/WojtekSza/DSA-Deepest-Leaves-Sum">Link</a>|
 | Trees and graphs | BFS | Binary Tree Zigzag Level Order Traversal| Python3 | <a href="https://github.com/WojtekSza/DSA-Binary-Tree-Zigzag-Level-Order-Traversal">Link</a>|
-
 | Trees and graphs | Implicit graphs | Minimum Genetic Mutation | Python3 | <a href="https://github.com/WojtekSza/DSA-Minimum-Genetic-Mutation/tree/main">Link</a>|
 | Trees and graphs | Implicit graphs | Jump Game III | Python3 | <a href="https://github.com/WojtekSza/DSA-Jump-Game-III/tree/main">Link</a>|
-| Trees and graphs | Heaps | Remove Stones to Minimize the Total | Python3 | <a href="https://github.com/WojtekSza/DSA-Remove-Stones-to-Minimize-the-Total/tree/main">Link</a>|
-| Trees and graphs | Implicit graphs | Minimum Genetic Mutation | Python3 | <a href="">Link</a>|
-| Trees and graphs | Implicit graphs | Minimum Genetic Mutation | Python3 | <a href="">Link</a>|
-| Trees and graphs | Implicit graphs | Minimum Genetic Mutation | Python3 | <a href="">Link</a>|
-| Trees and graphs | Implicit graphs | Minimum Genetic Mutation | Python3 | <a href="">Link</a>|
+| Heaps | Heaps | Remove Stones to Minimize the Total | Python3 | <a href="https://github.com/WojtekSza/DSA-Remove-Stones-to-Minimize-the-Total/tree/main">Link</a>|
+| Heaps | Heaps | Minimum Cost to Connect Sticks| Python3 | <a href="https://github.com/WojtekSza/DSA-Minimum-Cost-to-Connect-Sticks">Link</a>|
+| Heaps | Top K | Kth Largest Element in an Array | Python3 | <a href="https://github.com/WojtekSza/DSA-Kth-Largest-Element-in-an-Array">Link</a>|
+| Heaps | Top K | Minimum Genetic Mutation | Python3 | <a href="">Link</a>|
+| Heaps | Top K | Minimum Genetic Mutation | Python3 | <a href="">Link</a>|
 
 ## Engineering achievements:
 Design Engineer of compressor module in GE Catalyst turboprop engine used in Cessna Denali aircraft.
