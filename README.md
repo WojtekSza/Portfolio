@@ -97,7 +97,7 @@ See below my skils and projects.
 | Heaps | Heaps | Remove Stones to Minimize the Total | Python3 | <a href="https://github.com/WojtekSza/DSA-Remove-Stones-to-Minimize-the-Total/tree/main">Link</a>|
 | Heaps | Heaps | Minimum Cost to Connect Sticks| Python3 | <a href="https://github.com/WojtekSza/DSA-Minimum-Cost-to-Connect-Sticks">Link</a>|
 | Heaps | Top K | Kth Largest Element in an Array | Python3 | <a href="https://github.com/WojtekSza/DSA-Kth-Largest-Element-in-an-Array">Link</a>|
-| Heaps | Top K | Minimum Genetic Mutation | Python3 | <a href="">Link</a>|
+| Heaps | Top K | K Closest Points to Origin | Python3 | <a href="https://github.com/WojtekSza/DSA-K-Closest-Points-to-Origin">Link</a>|
 | Heaps | Top K | Minimum Genetic Mutation | Python3 | <a href="">Link</a>|
 
 ## Engineering achievements:
