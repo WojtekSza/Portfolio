@@ -100,6 +100,10 @@ See below my skils and projects.
 | Heaps | Top K | K Closest Points to Origin | Python3 | <a href="https://github.com/WojtekSza/DSA-K-Closest-Points-to-Origin">Link</a>|
 | Heaps | Top K | Minimum Genetic Mutation | Python3 | <a href="">Link</a>|
 
+
+<a href="https://github.com/WojtekSza/DSA">Other DSA</a>
+
+
 ## Engineering achievements:
 Design Engineer of compressor module in GE Catalyst turboprop engine used in Cessna Denali aircraft.
 <p>
